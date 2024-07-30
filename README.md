@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Siddique is here, i'm a software developer 👨🏽‍💻 based in India 🇮🇳.
+# Siddique is here, i'm a software developer 👨🏽‍💻 based in India 🇮🇳.
 <!--
 **siddique4034/siddique4034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
