@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddique</h1>
 <h3 align="center">I'm a backend developer.</h3>
 
-- 🔭 I’m currently working in **Banao Technologies**
+- 🔭 I’m currently working in **personal projects**
 
 - 🌱 I’m currently learning **Django , Data structures, NoSqlDB**
 
