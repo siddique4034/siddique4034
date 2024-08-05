@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddique</h1>
 <h3 align="center">I'm a backend developer.</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddique4034&theme=dark_mode)
-
 - 🔭 I’m currently working in **personal projects**
 
 - 🌱 I’m currently learning **Django , Data structures, NoSqlDB**
@@ -12,6 +10,8 @@
 - 📫 How to reach me **siddique4034@gmail.com**
 
 ## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddique4034&theme=github_dark)
 
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=siddique4034&show_icons=true&hide=&count_private=true&theme=github_dark&hide_border=true&show_icons=true&custom_title=My%20GitHub%20Stats&card_width=420px&rank_icon=github"
