@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Siddique</h1>
 <h3 align="center">I'm a backend developer.</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddique4034)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+
+
+
 - 🔭 I’m currently working in **personal projects**
 
 - 🌱 I’m currently learning **Django , Data structures, NoSqlDB**
