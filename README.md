@@ -11,7 +11,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddique4034&theme=github_dark&hide_border=true)
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddique4034&theme=github_dark&hide_border=true"></a>
 </p>
 
 <p align="center">
